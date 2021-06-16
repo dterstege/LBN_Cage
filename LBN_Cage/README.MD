@@ -9,10 +9,20 @@ This repository contains the build instructions for cages applying the LBN parad
 
 ## Table of Contents
 
-| section  | description | 
+| Section  | Description | 
 | ------------- | ------------- | 
 | [1. 3D Printing](#print)   | 3D printing specifications  |
 | [2. Laser Cutting](#cut)   | Laser cutting specifications  |
 | [3. Contact Us](#contact)  | Where to reach us with questions  |
 
+<a name="print"/>
 
+## 1. 3D Printing
+
+<a name="cut"/>
+
+## 2. Laser Cutting
+
+<a name="contact"/>
+
+## 3. Contact Us
