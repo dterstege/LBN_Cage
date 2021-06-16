@@ -43,7 +43,15 @@ Multi-component features, such as the lid and the grid, were adhered together by
 
 To cut the appropriate components, nativate to the [SVG folder](https://github.com/dterstege/LBN_Cage/tree/main/LBN_Cage/SVG) and download its contents.
 
+Throughout the development process and the use of these cages, a PLACEHOLDER was used.
 
+Components were arranged to suit the dimenstions of the acrylic sheets using Inkscape (V0.92.4).
+
+Cut Specifications:
+
+- PLACEHOLDER
+
+Components were adhered together by carefully applying a thin layer of PLACEHOLDER to junctions.
 
 <a name="contact"/>
 
