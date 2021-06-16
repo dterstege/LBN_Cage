@@ -21,7 +21,7 @@ Current Version: V1.0.0
 
 ## 1. 3D Printing
 
-To print the appropriate components, navigate to the STL folder and download its contents.
+To print the appropriate components, navigate to the [STL folder](https://github.com/dterstege/LBN_Cage/tree/main/LBN_Cage/STL) and download its contents.
 
 Throughout the development process and the use of these cages, a Creality Ender3 V2 printer was used.
 
