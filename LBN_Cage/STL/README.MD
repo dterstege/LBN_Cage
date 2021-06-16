@@ -1,1 +1,18 @@
-## PLACEHOLDER
+3D Printing
+===========
+
+To print the appropriate components, navigate to the [STL folder](https://github.com/dterstege/LBN_Cage/tree/main/LBN_Cage/STL) and download its contents.
+
+Throughout the development process and the use of these cages, a Creality Ender3 V2 printer was used.
+
+Components were sliced using Ultimaker Cura (V4.8).  20% infill and the default supports were used.
+
+Print Specifications:
+
+- 1.75 mm PLA
+- 0.6 mm brass nozzle tip
+- Tempered glass plate (stock) build surface (235 x 235 mm)
+- Build plate temperature: 60°C
+- Nozzle temperature: 200°C
+
+Multi-component features, such as the lid and the grid, were adhered together by carefully applying a thin layer of acetone to common surfaces.
