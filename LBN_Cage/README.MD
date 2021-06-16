@@ -13,7 +13,7 @@ This repository contains the build instructions for cages applying the LBN parad
 | ------------- | ------------- | 
 | [1. 3D Printing](#print)   | 3D printing specifications  |
 | [2. Laser Cutting](#cut)   | Laser cutting specifications  |
-| [3. Contact Us](#contact)  | Where to reach us with questions  |
+| [3. Contact/Citing](#contact)  | Where to reach us with questions and how to cite this work  |
 
 <a name="print"/>
 
@@ -29,9 +29,11 @@ ipsum lorem
 
 <a name="contact"/>
 
-## 3. Contact Us
+## 3. Contact/Cite
 
-ipsum lorem
+If using this design in an experiment, please cite the following article:
+
+PLACEHOLDER
 
 **Contributors:**
 - **Dylan Terstege*** (design) ![twitter-icon_16x16](https://user-images.githubusercontent.com/44174532/113163958-e3d3e400-91fd-11eb-8d79-17906d8d3f25.png)[@dterstege](https://twitter.com/dterstege) - ![Mail](https://user-images.githubusercontent.com/44174532/113164412-50e77980-91fe-11eb-9282-dd83852578ce.png) dylan.terstege@ucalgary.ca
