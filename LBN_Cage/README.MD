@@ -7,6 +7,8 @@ The Limited Bedding and Nesting (LBN) paradigm can be used to study the effects 
 
 This repository contains the build instructions for cages applying the LBN paradigm.  Cages were designed by Dylan Terstege, a Neuroscience PhD candidate in the Epp Lab at the University of Calgary.
 
+Current Version: V1.0.0
+
 ## Table of Contents
 
 | Section  | Description | 
@@ -19,7 +21,7 @@ This repository contains the build instructions for cages applying the LBN parad
 
 ## 1. 3D Printing
 
-ipsum lorem
+To print the appropriate pieces
 
 <a name="cut"/>
 
