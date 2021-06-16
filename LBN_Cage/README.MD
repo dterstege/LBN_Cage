@@ -1,4 +1,5 @@
 ## LBN CAGE
+===========
 
 The Limited Bedding and Nesting (LBN) paradigm can be used to study the effects of exposure to early life stress.  In this paradigm, dams have limited access to nesting and bedding.  These less than ideal conditions induce stress and alter maternal behaviours.
 
