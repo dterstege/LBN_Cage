@@ -41,7 +41,9 @@ Multi-component features, such as the lid and the grid, were adhered together by
 
 ## 2. Laser Cutting
 
-PLACEHOLDER
+To cut the appropriate components, nativate to the [SVG folder](https://github.com/dterstege/LBN_Cage/tree/main/LBN_Cage/SVG) and download its contents.
+
+
 
 <a name="contact"/>
 
