@@ -35,11 +35,13 @@ Print Specifications:
 - Build plate temperature: 60°C
 - Nozzle temperature: 200°C
 
+Multi-component features, such as the lid and the grid, were adhered together by carefully applying a thin layer of acetone to common surfaces.
+
 <a name="cut"/>
 
 ## 2. Laser Cutting
 
-ipsum lorem
+PLACEHOLDER
 
 <a name="contact"/>
 
