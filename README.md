@@ -44,8 +44,6 @@ Multi-component features, such as the lid and the grid, were adhered together by
 
 To cut the appropriate components, nativate to the [SVG folder](https://github.com/dterstege/LBN_Cage/tree/main/LBN_Cage/SVG) and download its contents.
 
-Throughout the development process and the use of these cages, a PLACEHOLDER was used.
-
 Components were arranged to suit the dimenstions of the acrylic sheets using Inkscape (V0.92.4).
 
 Components were adhered together by carefully applying a thin layer of Weld-On acrlyic solvent cement to junctions.
@@ -59,13 +57,12 @@ If using this design in an experiment, please cite the following article:
 PLACEHOLDER
 
 **Contributors:**
-- **Dylan Terstege*** (design) ![twitter-icon_16x16](https://user-images.githubusercontent.com/44174532/113163958-e3d3e400-91fd-11eb-8d79-17906d8d3f25.png)[@dterstege](https://twitter.com/dterstege) - ![Mail](https://user-images.githubusercontent.com/44174532/113164412-50e77980-91fe-11eb-9282-dd83852578ce.png) dylan.terstege@ucalgary.ca
-- Olivia O'Neill, lead author
-- Assistance with laser cutting during prototyping was provided by the University of Calgary, the Hotchkiss Brain Institue, and the Cummining School of Medicine's Optogenetics Core - https://hbi.ucalgary.ca/research/opto/home
+- Olivia O'Neill (lead author) ![twitter-icon_16x16](https://user-images.githubusercontent.com/44174532/113163958-e3d3e400-91fd-11eb-8d79-17906d8d3f25.png)[@oliviaonei2204](https://twitter.com/oliviaonei2204)
+- **Dylan Terstege** (cage design) ![twitter-icon_16x16](https://user-images.githubusercontent.com/44174532/113163958-e3d3e400-91fd-11eb-8d79-17906d8d3f25.png)[@dterstege](https://twitter.com/dterstege) - ![Mail](https://user-images.githubusercontent.com/44174532/113164412-50e77980-91fe-11eb-9282-dd83852578ce.png) dylan.terstege@ucalgary.ca
 
-Principal Investigator:
-- Derya Sargin (conceptualization, corresponding author) - https://sarginlab.com
-- Jonathan Epp (conceptualization) - https://epplab.com
+Principal Investigators:
+- **Derya Sargin*** (conceptualization, supervision) - https://sarginlab.com
+- Jonathan Epp (conceptualization, supervision) - https://epplab.com
 
 <sub><sup>***corresponding author**</sup></sub>
 
