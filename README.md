@@ -48,11 +48,7 @@ Throughout the development process and the use of these cages, a PLACEHOLDER was
 
 Components were arranged to suit the dimenstions of the acrylic sheets using Inkscape (V0.92.4).
 
-Cut Specifications:
-
-- PLACEHOLDER
-
-Components were adhered together by carefully applying a thin layer of PLACEHOLDER to junctions.
+Components were adhered together by carefully applying a thin layer of Weld-On acrlyic solvent cement to junctions.
 
 <a name="contact"/>
 
