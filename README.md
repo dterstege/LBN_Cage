@@ -3,7 +3,8 @@ LBN CAGE
 
 The Limited Bedding and Nesting (LBN) paradigm can be used to study the effects of exposure to early life stress.  In this paradigm, dams have limited access to nesting and bedding.  These less than ideal conditions induce stress and alter maternal behaviours.
 
-<img width="779" alt="LBN_Cage" src="https://user-images.githubusercontent.com/44174532/182716454-6d3b61a4-5511-4e40-b751-fd26b4f09254.png">
+![CAGE_tempprobe](https://github.com/user-attachments/assets/86e40d0c-ae11-4ba9-850d-af2452f9beb9)
+
 
 
 This repository contains the build instructions for cages applying the LBN paradigm.  Cages were designed by Dylan Terstege, a Neuroscience PhD candidate in the Epp Lab at the University of Calgary.
@@ -46,13 +47,17 @@ To cut the appropriate components, nativate to the [SVG folder](https://github.c
 
 Components were arranged to suit the dimenstions of the acrylic sheets using Inkscape (V0.92.4).
 
-Components were adhered together by carefully applying a thin layer of Weld-On acrlyic solvent cement to junctions.
+Components were cut from 1/4" transparent plexiglass using a Boss Laser LS-2440 CO2 Laser Cutter and Engraver
+
+Components were adhered together by carefully applying a thin layer of Weld-On #3 acrlyic solvent cement to junctions.
 
 <a name="contact"/>
 
 ## 3. Contact/Cite
 
 If using this design in an experiment, please cite the following article:
+
+TEMP
 
 PLACEHOLDER
 
